@@ -1,0 +1,6 @@
+name = "kv_test"
+main = "src/index.js"
+compatibility_date = "2022-07-15"
+kv_namespaces = [
+ { binding = "KV_TEST_V3", id = "969a5211ff064d73ba3554c613c9ad18", preview_id = "969a5211ff064d73ba3554c613c9ad18" }
+]
